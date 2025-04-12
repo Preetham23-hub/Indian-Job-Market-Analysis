@@ -26,18 +26,18 @@ Prerequisites
 🚀 Installation & Execution
 Google Colab (Recommended)
 1. Open the notebook:
-2. Paste the code from this project into cells.
+2. Import the job_market_plot.ipynb, or Paste the code from this project into cells.
 3. Replace <api-key> with your actual key.
 4. Run all cells (Runtime → Run All).
 
 Local Machine
 Clone the repo:
-git clone https://github.com/yourusername/job-market-analysis.git
+git clone https://github.com/Preetham23-hub/job-market-analysis.git
 cd job-market-analysis
 
 Install dependencies: pip install requests pandas matplotlib numpy
 
-Run the script: python job_analysis.py
+Run the script: python job_market_plot.py
 
 🛠 Customization:
 
