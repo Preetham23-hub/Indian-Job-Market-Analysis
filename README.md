@@ -24,9 +24,9 @@ Prerequisites
 5. Copy your API Key from the dashboard
 
 🚀 Installation & Execution
-Google Colab (Recommended)
+Google Colab or Jupyter Notebook.
 1. Open the notebook:
-2. Import the job_market_plot.ipynb, or Paste the code from this project into cells.
+2. Import the job_market_analysis.ipynb, or Paste the code from this project into cells.
 3. Replace <api-key> with your actual key.
 4. Run all cells (Runtime → Run All).
 
@@ -37,7 +37,7 @@ cd job-market-analysis
 
 Install dependencies: pip install requests pandas matplotlib numpy
 
-Run the script: python job_market_plot.py
+Run the script: python job_market_analysis.py
 
 🛠 Customization:
 
